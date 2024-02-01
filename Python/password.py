@@ -3,10 +3,10 @@ import hashlib
 import random
 import base64
 
-def a9jbh8uhvgaijbhug56gvFonbsvb56hg2Vbhs098kNhjbsdjhgigdjDGjsfHIBHD(value):
-	if value:
+def a9jbh8uhvgaijbhug56gvFonbsvb56hg2Vbhs098kNhjbsdjhgigdjDGjsfHIBHD(hjnuioojbdhbginbbh27hgvsj7hbv):
+	if hjnuioojbdhbginbbh27hgvsj7hbv:
 		print(d98hjbsg88nlm3H6BqhpUin7bgubtgef(False, "Q29ycmVjdCE=", False))
-	if not value:
+	if not hjnuioojbdhbginbbh27hgvsj7hbv:
 		print(d98hjbsg88nlm3H6BqhpUin7bgubtgef(False, "Tm9wZSE=", False))
 		exit()
 def Hb0uhbn6ygvfgih62gvHgs6Hgvghfbv():
